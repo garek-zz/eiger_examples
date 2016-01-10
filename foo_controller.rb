@@ -1,4 +1,4 @@
-class PostController < Eiger::Controller
+class FooController < Eiger::Controller
 
   # match GET /post
   def index
